@@ -1,0 +1,3 @@
+CALL algo.betweenness.stream('*','TESEKKUR',{direction:'out'})
+YIELD nodeId, centrality
+RETURN nodeId,centrality order by centrality desc;
