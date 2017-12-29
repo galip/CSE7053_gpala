@@ -1,3 +1,0 @@
-MATCH (p)-[r:TAKDIR]-() 
-RETURN p.uID,p.isManager,p.managerID,p.departmanName,p.ustdepartmanName, count(r) as DegreeCentrality
-order by DegreeCentrality desc;
