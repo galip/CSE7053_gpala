@@ -1,0 +1,2 @@
+CALL algo.unionFind('*', 'TAKDIR')
+YIELD nodes, setCount as distinctGroupCountForTakdirRelation
