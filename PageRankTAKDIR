@@ -1,2 +1,3 @@
 CALL algo.pageRank.stream('*','TAKDIR', {iterations:70}) YIELD node, score 
-RETURN node.uID, score order by score desc;
+RETURN node.uID,node.departmanName,node.ustdepartmanName,score 
+order by score desc
