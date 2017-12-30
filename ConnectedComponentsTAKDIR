@@ -1,0 +1,4 @@
+CALL algo.unionFind.stream('*', 'TAKDIR')
+YIELD nodeId,setId
+RETURN nodeId,setId as distinctGroupId 
+order by distinctGroupId desc
