@@ -1,0 +1,2 @@
+CALL algo.scc('*','TAKDIR')
+YIELD setCount, maxSetSize, minSetSize;
