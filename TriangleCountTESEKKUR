@@ -1,0 +1,4 @@
+CALL algo.triangleCount.stream('*', 'TESEKKUR')
+YIELD nodeId, triangles
+RETURN nodeId, sum(triangles) as SUMTRIANGLE
+order by SUMTRIANGLE desc;
