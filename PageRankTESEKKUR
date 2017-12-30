@@ -1,0 +1,3 @@
+CALL algo.pageRank.stream('*','TESEKKUR', {iterations:70}) YIELD node, score 
+RETURN node.uID,node.departmanName,node.ustdepartmanName,score 
+order by score desc
