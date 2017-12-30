@@ -1,0 +1,3 @@
+CALL algo.closeness.stream('*','TESEKKUR',{direction:'out'})
+YIELD nodeId, centrality
+RETURN nodeId,centrality order by centrality desc;
