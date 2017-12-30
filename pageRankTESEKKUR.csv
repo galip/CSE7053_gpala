@@ -1,0 +1,191 @@
+"""node.uID""","""node.departmanName""","""node.ustdepartmanName""","""score"""
+1167,"""IT Departmanı ""","""Aristo A.Ş""",1.5919400000000004
+1103,"""Tasarım Departmanı""","""Aristo A.Ş""",1.4815675
+1179,"""Tasarım Departmanı""","""Aristo A.Ş""",1.4409630000000004
+1260,"""IT Departmanı ""","""Aristo A.Ş""",1.4217955
+1241,"""Tasarım Departmanı""","""Aristo A.Ş""",1.3563625000000004
+1417,"""Tasarım Departmanı""","""Aristo A.Ş""",1.1030200000000003
+40,"""IT Departmanı ""","""Aristo A.Ş""",0.9741344999999999
+1149,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.8658784999999997
+1298,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.7590335
+1430,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.666715
+1171,"""IT Departmanı ""","""Aristo A.Ş""",0.6058720000000002
+1223,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.5110375
+1238,"""Tasarım Departmanı""","""Aristo A.Ş""",0.510349
+1175,"""B2C Departmanı""","""Aristo A.Ş""",0.4942585
+1505,"""Tasarım Departmanı""","""Aristo A.Ş""",0.411443
+1466,"""IT Departmanı ""","""Aristo A.Ş""",0.41106050000000005
+1267,"""IT Departmanı ""","""Aristo A.Ş""",0.4021865000000001
+1448,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.37342250000000016
+1264,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.37036250000000015
+1163,"""satış""","""On-Net A.Ş""",0.3545015
+1265,"""satış""","""On-Net A.Ş""",0.345007
+1319,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.34441200000000005
+1501,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.34303500000000015
+1174,"""B2C Departmanı""","""Aristo A.Ş""",0.3313475000000002
+1431,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.32375699999999996
+1497,"""On-Net A.Ş""","""Biggplus Grup""",0.3163195
+1266,"""IT Departmanı ""","""Aristo A.Ş""",0.31345500000000004
+1316,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.3058475000000002
+1172,"""IT Departmanı ""","""Aristo A.Ş""",0.3010365
+1156,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.29546900000000004
+1150,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.2775
+1235,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.2775
+1183,"""On-Net A.Ş""","""Biggplus Grup""",0.26981600000000017
+1202,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.2547795
+1229,"""Biggplus Grup""","""""",0.2537339999999999
+1204,"""On-Net A.Ş""","""Biggplus Grup""",0.24440950000000006
+1377,"""IT Departmanı ""","""Aristo A.Ş""",0.24414600000000003
+1282,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.23416700000000004
+1268,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.23283250000000005
+1098,"""Biggplus Grup""","""""",0.22289599999999996
+1317,"""satış""","""On-Net A.Ş""",0.22208000000000006
+1205,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.21788100000000002
+1273,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.21788100000000002
+1296,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.20537750000000002
+1188,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.20390700000000003
+1467,"""IT Departmanı ""","""Aristo A.Ş""",0.20282750000000005
+1218,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.20045600000000002
+1499,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.20045600000000002
+1186,"""B2C Departmanı""","""Aristo A.Ş""",0.19575550000000003
+1275,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.19250000000000003
+1289,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.19250000000000003
+1502,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.1821725
+1168,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.17834750000000002
+1270,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.17834750000000002
+1475,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.17834750000000002
+1263,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.1783305
+1217,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.17804999999999999
+1247,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.17804999999999999
+1164,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.1735365
+1185,"""Biggplus Grup""","""""",0.1735365
+1256,"""Biggplus Grup""","""""",0.17289049999999995
+1297,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.1723295
+1178,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.16820700000000002
+1216,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.16820700000000002
+1221,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.16820700000000002
+1243,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.16820700000000002
+1252,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.16820700000000002
+1180,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.167969
+1187,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.167969
+1479,"""On-Net A.Ş""","""Biggplus Grup""",0.16740800000000003
+1162,"""satış""","""On-Net A.Ş""",0.16476450000000004
+1201,"""On-Net A.Ş""","""Biggplus Grup""",0.15984299999999999
+1224,"""Biggplus Grup""","""""",0.15984299999999999
+1239,"""On-Net A.Ş""","""Biggplus Grup""",0.15984299999999999
+1272,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.15984299999999999
+1170,"""IT Departmanı ""","""Aristo A.Ş""",0.1549215
+1177,"""satış""","""On-Net A.Ş""",0.1549215
+1200,"""On-Net A.Ş""","""Biggplus Grup""",0.1549215
+1240,"""B2C Departmanı""","""Aristo A.Ş""",0.1549215
+1287,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.1549215
+1151,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1152,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1154,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1155,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1166,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1169,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1173,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1176,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1181,"""BTM Mağazalar""","""BTM A.Ş""",0.15000000000000002
+1182,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1184,"""Biggplus Grup""","""""",0.15000000000000002
+1203,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1212,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1213,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1214,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1215,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1219,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1220,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1225,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1226,"""Galata-1 Mağazası""","""BTM Mağazalar""",0.15000000000000002
+1227,"""Galata-1 Mağazası""","""BTM Mağazalar""",0.15000000000000002
+1242,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1244,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1245,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1246,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1248,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1249,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1250,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1251,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1253,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1254,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1255,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1257,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1258,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1259,"""Biggplus Grup""","""""",0.15000000000000002
+1262,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1269,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1271,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1274,"""Biggplus Grup""","""""",0.15000000000000002
+1276,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1277,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1278,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1283,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1284,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1285,"""Özdilek Mağazası""","""BTM Mağazalar""",0.15000000000000002
+1286,"""Özdilek Mağazası""","""BTM Mağazalar""",0.15000000000000002
+1288,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1309,"""Biggplus Grup""","""""",0.15000000000000002
+1310,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1311,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.15000000000000002
+1313,"""Galata-1 Mağazası""","""BTM Mağazalar""",0.15000000000000002
+1318,"""satış""","""On-Net A.Ş""",0.15000000000000002
+1320,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1321,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1324,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1325,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1326,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1327,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1328,"""Biggplus Grup""","""""",0.15000000000000002
+1329,"""Biggplus Grup""","""""",0.15000000000000002
+1330,"""Biggplus Grup""","""""",0.15000000000000002
+1378,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1401,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.15000000000000002
+1411,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1413,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1414,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1416,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1436,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1437,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1438,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1442,"""""","""""",0.15000000000000002
+1449,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1450,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1451,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1452,"""satış""","""On-Net A.Ş""",0.15000000000000002
+1456,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1457,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1458,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1459,"""Lojistik Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1461,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1468,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1485,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1487,"""Biggplus Grup""","""""",0.15000000000000002
+1489,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1490,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1491,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1492,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.15000000000000002
+1500,"""BTM A.Ş. Merkez ""","""BTM A.Ş""",0.15000000000000002
+1504,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+1507,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1508,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1510,"""Çağrı Merkezi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1511,"""B2C Departmanı""","""Aristo A.Ş""",0.15000000000000002
+1512,"""satış""","""On-Net A.Ş""",0.15000000000000002
+1513,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1514,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+1515,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1516,"""Bigglook&Biggtravel Departmanı""","""On-Net A.Ş""",0.15000000000000002
+1517,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1518,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+1519,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+2520,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+2522,"""Saınalma&Ürün Yönetimi Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+2523,"""Mali İşler Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+2524,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+2525,"""Proje Departmanı""","""Sanal Mağaza A.Ş """,0.15000000000000002
+2526,"""Sanal Mağaza A.Ş ""","""Biggplus Grup""",0.15000000000000002
+2527,"""On-Net A.Ş""","""Biggplus Grup""",0.15000000000000002
+2528,"""IT Departmanı ""","""Aristo A.Ş""",0.15000000000000002
+2529,"""Biggplus Grup""","""""",0.15000000000000002
